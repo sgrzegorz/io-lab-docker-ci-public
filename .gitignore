@@ -11,4 +11,4 @@
 !.gitignore
 !.travis.yml
 !.readme-images/
-!.readme-images/*
+!.readme-images/* 
